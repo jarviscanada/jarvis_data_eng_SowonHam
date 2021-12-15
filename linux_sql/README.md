@@ -3,4 +3,4 @@ This project is under development. Since this project follows the itFlow, the fi
 
 ## Architecture
 Draw a cluster diagram with three Linux hosts, a DB, and agents (use draw.io website). Image must be saved to the `assets` directory.
-![This is the cluster diagram.]{/assets/cluster_diagram.drawio.png}
+![This is the cluster diagram.](/assets/cluster_diagram.drawio.png)
