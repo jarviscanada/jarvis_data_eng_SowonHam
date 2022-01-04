@@ -30,7 +30,7 @@ memory_free=$(echo "$vmstat_mb" | awk '{print $4}' | tail -n 1 | xargs)
 cpu_idle=$(echo "$vmstat_mb" | awk '{print $15}' | tail -n 1 | xargs)
 cpu_kernel=$(echo "$vmstat_mb" | awk '{print $14}' | tail -n 1 | xargs)
 disk_io=$(echo "$(vmstat -d)" | awk '{print $10}' | tail -n 1 | xargs)
-disk_available=$(echo "$(df -BM)" | grep /dev/sda2 | awk '{print $4}' | xargs)
+disk_available=$(echo "$(df -BM)" | grep /dev/sda2 | awk '{print $4}' | sed s/.$// | xargs)
 
 # Subquery to find matching id in host_info table
 host_id="(SELECT id
@@ -39,7 +39,7 @@ WHERE hostname='$hostname');";
 
 # INSERT the server usage data into the PSQL host_usage table
 insert_stmt="INSERT INTO host_usage
-VALUES('$timestamp', '$host_id', '$memory_free', '$cpu_idle', '$cpu_kernel', '$disk_io', $disk_available');";
+VALUES('$timestamp', $host_id, $memory_free, $cpu_idle, $cpu_kernel, $disk_io, $disk_available);"
 
 # Set up the environmental variable PSQL password
 export PGPASSWORD=$psql_password
