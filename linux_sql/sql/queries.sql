@@ -4,6 +4,12 @@ SELECT cpu_number, id, total_mem
 FROM host_info
 ORDER BY cpu_number ASC, total_mem DESC;
 
+-- Note: When you are inserting data points into the host_info table
+-- and the first column usually takes an ID and since this is a SERIAL data type
+-- and we pass a DEFAULT argument, it is not necessarily going to be in order...
+-- PSQL does not use a "gapless sequencing" meaning there will be potentially gaps in between the numbers.
+-- This should not affect the database in any way, anyways.
+
 -- 2. Average memory usage
 -- Average used memory in percentage over 5 mins interval for each host. (used memory = total memory - free memory).
 
