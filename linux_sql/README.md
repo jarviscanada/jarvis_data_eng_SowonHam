@@ -174,6 +174,8 @@ in the remote repository. Whereas, the database instance can be set up through
 the PostgreSQL image through Docker.
 
 # Improvements
+- Committing more often into the remote repository, open Pull Requests in smaller bits than in bulks.
+- Merge feature branches to develop branch more frequently, and open a PR more often.
 - I believe the comments and the documentation on the implementation could have been done
 more thoroughly.
 - The testing of the scripts and queries could be improved by using several nodes rather than just one to ensure accuracy.
