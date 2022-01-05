@@ -1,7 +1,7 @@
 #! /bin/sh
 
 # Usage of the script
-# ./scripts/host_info.sh psql_host psql_port db_name psql_user psql_password
+# ./scripts/host_usage.sh psql_host psql_port db_name psql_user psql_password
 
 # Pseudocode for `host_usage` bash script
 # assign CLI arguments to variables (e.g. `psql_host=$1`)

@@ -3,7 +3,7 @@
 # Usage of the script
 # ./scripts/host_info.sh psql_host psql_port db_name psql_user psql_password
 
-# Pseudocode for `host_usage` bash script
+# Pseudocode for `host_info` bash script
 # assign CLI arguments to variables (e.g. `psql_host=$1`)
 # parse host hardware specifications using bash cmds
 # Construct the INSERT statement
