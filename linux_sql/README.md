@@ -163,6 +163,9 @@ the IDE we were using, IntelliJ. Through the terminal we used the PSQL commands 
 execute each of the queries whereas on IntelliJ we simply ran the scripts in the IDE 
 and got the desired results.
 
+Additionally, we created sample data points in the database to test whether if 
+our scripts are working correctly and if the business queries were outputting appropriate results.
+
 
 # Deployment
 The deployment of the MVP for the Jarvis LCA team was done through GitHub 
