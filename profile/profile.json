@@ -6,10 +6,10 @@
         "Dean's List (2015, 2016): Ut enim ad minim veniam",
         "GPA: 3.8/4.0"
       ],
-      "degree": "Bachelor of Applied Sciences",
-      "department": "Electrical and Computer Engineering",
-      "duration": "2012-2016",
-      "school_name": "XYZ university"
+      "degree": "Honours Bachelor of Science, with Distinction",
+      "department": "Statistics and Mathematics",
+      "duration": "2017-2021",
+      "school_name": "University of Toronto - St. George Campus"
     },
     {
       "awards_achievements": null,
@@ -126,7 +126,7 @@
       "fermentum"
     ],
     "proficient": [
-      "Java",
+      "R",
       "Linux/Bash",
       "RDBMS/SQL",
       "Agile/Scrum",

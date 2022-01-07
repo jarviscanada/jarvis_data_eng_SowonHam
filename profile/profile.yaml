@@ -12,7 +12,7 @@ summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed venenatis 
 skills:
   # At least 5 skills
   proficient:
-    - Java
+    - R
     - Linux/Bash
     - RDBMS/SQL
     - Agile/Scrum
@@ -91,10 +91,10 @@ professional_experience:
 
 #List of edcuation
 education: 
-  - school_name: "XYZ university"
-    duration: "2012-2016"
-    degree: "Bachelor of Applied Sciences"
-    department: "Electrical and Computer Engineering"
+  - school_name: "University of Toronto - St. George Campus"
+    duration: "2017-2021"
+    degree: "Honours Bachelor of Science, with Distinction"
+    department: "Statistics and Mathematics"
     # optional
     awards_achievements: 
       - "Scholarship"
