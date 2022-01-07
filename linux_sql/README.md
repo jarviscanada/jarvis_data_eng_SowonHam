@@ -57,7 +57,7 @@ crontab -e
 * * * * * bash $(pwd)/scripts/host_usage.sh psql_hostname psql_port db_name psql_user psql_password
 ```
 
-# Implemenation
+# Implementation
 The implementation of this MVP for the Jarvis LCA team was approached through an
 agile environment following the System Development Life Cycle (SDLC) process.
 In a nutshell, through the benefits of having a GitHub remote repository and its
