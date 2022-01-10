@@ -1,21 +1,21 @@
 # Sowon Ham . Jarvis Consulting
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed venenatis a orci ac malesuada. Vivamus ligula elit, viverra eu ante porttitor, blandit convallis augue. Aliquam justo justo, mollis at lacus eu, rutrum finibus est. Vestibulum venenatis purus id accumsan pretium. In efficitur magna nec enim laoreet tincidunt. Ut libero metus, scelerisque nec eros vitae, sagittis pellentesque enim. Donec dictum felis volutpat, vehicula magna eu, imperdiet elit. Phasellus ut velit a massa efficitur faucibus. Sed volutpat, lacus sed sagittis luctus, elit.
+I am a recent graduate of University of Toronto - St. George Campus and I studied statistics and mathematics in my degree. Due to my passion in the DA/BA/BSA field I pursued to a profession that suits my strength and my likings. Jarvis Consulting Group is the first place that I was able to thorougly communicate with and resulted in a very positive manner to work here as one of the employee. It is such an honor to be working in a field that is continuously growing every day and see everyone including myself studying new subjects every day. Particularly, while I was studying in my field the process of gathering data, building statistical models, and analyzing through mathematical methods fascinated me to a great extent. I wish to pursue in this field to continuously learn and apply old and new methods of data analysis to play with data.
 
 ## Skills
 
-**Proficient:** R, Linux/Bash, RDBMS/SQL, Agile/Scrum, Git
+**Proficient:** R/RMarkdown/LaTeX, Linux/Bash, RDBMS/SQL, Agile/Scrum, Git/GitFlow, AutoIt, Docker, Statistics (A/B Testing, Hypothesis Testing, Time Series Analysis), Experimental Design
 
-**Competent:** Donec, fermentum, Donec, fermentum, Donec
+**Competent:** Stochastic Processes, Microsoft Excel, Java, Julia, Python, Forecasting, Tidyverse
 
-**Familiar:** Donec, fermentum, fermentum, fermentum, fermentum
+**Familiar:** Virtual Network Computing (VNC), Verilog, Machine Learning (Neural Network, Cluster Algorithms), Forecasting, Cloud Networking
 
 ## Jarvis Projects
 
 Project source code: [https://github.com/jarviscanada/jarvis_data_eng_demo](https://github.com/jarviscanada/jarvis_data_eng_demo)
 
 
-**Cluster Monitor** [[GitHub](https://github.com/jarviscanada/jarvis_data_eng_demo/tree/master/linux_sql)]: Suspendisse a tincidunt odio. Suspendisse posuere luctus aliquet. Quisque magna tellus, tempor vitae arcu sed, volutpat scelerisque lacus. Aliquam varius pulvinar dapibus. Ut a tincidunt sem. Aenean sollicitudin fringilla erat ut imperdiet. Phasellus fermentum, enim vitae laoreet elementum, eros nisl hendrerit lorem.
+**Cluster Monitor** [[GitHub](https://github.com/jarviscanada/jarvis_data_eng_demo/tree/master/linux_sql)]: dfsdf
 
 **Core Java Apps** [[GitHub](https://github.com/jarviscanada/jarvis_data_eng_demo/tree/master/core_java)]:
       

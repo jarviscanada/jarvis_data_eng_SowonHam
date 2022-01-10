@@ -5,32 +5,38 @@ github_repo_root_url: https://github.com/jarviscanada/jarvis_data_eng_demo
 
 # Introduce yourself, your academic and professional background.
 # What excites you about the software industry and your passion. At least 80 words
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed venenatis a orci ac malesuada. Vivamus ligula elit, viverra eu ante porttitor, blandit convallis augue. Aliquam justo justo, mollis at lacus eu, rutrum finibus est. Vestibulum venenatis purus id accumsan pretium. In efficitur magna nec enim laoreet tincidunt. Ut libero metus, scelerisque nec eros vitae, sagittis pellentesque enim. Donec dictum felis volutpat, vehicula magna eu, imperdiet elit. Phasellus ut velit a massa efficitur faucibus. Sed volutpat, lacus sed sagittis luctus, elit.
+summary: I am a recent graduate of University of Toronto - St. George Campus and I studied statistics and mathematics in my degree. Due to my passion in the DA/BA/BSA field I pursued to a profession that suits my strength and my likings. Jarvis Consulting Group is the first place that I was able to thorougly communicate with and resulted in a very positive manner to work here as one of the employee. It is such an honor to be working in a field that is continuously growing every day and see everyone including myself studying new subjects every day. Particularly, while I was studying in my field the process of gathering data, building statistical models, and analyzing through mathematical methods fascinated me to a great extent. I wish to pursue in this field to continuously learn and apply old and new methods of data analysis to play with data.
 
 # Group your skills by level.
 # Your skills can be anything software related (e.g. language, frameworks, methodologies, software, etc.).
 skills:
   # At least 5 skills
   proficient:
-    - R
+    - R/RMarkdown/LaTeX
     - Linux/Bash
     - RDBMS/SQL
     - Agile/Scrum
-    - Git
+    - Git/GitFlow
+    - AutoIt
+    - Docker
+    - Statistics (A/B Testing, Hypothesis Testing, Time Series Analysis)
+    - Experimental Design
   # At least 5 skills
   competent:
-    - Donec
-    - fermentum
-    - Donec
-    - fermentum
-    - Donec
+    - Stochastic Processes
+    - Microsoft Excel
+    - Java
+    - Julia
+    - Python
+    - Forecasting
+    - Tidyverse
   # At least 5 skills
   familiar:
-    - Donec
-    - fermentum
-    - fermentum
-    - fermentum
-    - fermentum
+    - Virtual Network Computing (VNC)
+    - Verilog
+    - Machine Learning (Neural Network, Cluster Algorithms)
+    - Forecasting
+    - Cloud Networking
 
 # List of Jarvis projects
 jarvis_projects:
@@ -38,7 +44,7 @@ jarvis_projects:
     git_url: "/linux_sql"
     # The project description allows hiring managers to understand your project and technologies you used(e.g. programming languages, libraries, algorithms, hardware, tools, etc.).
     # The project description must start with an action verb (https://bit.ly/3guO98u)
-    description: Suspendisse a tincidunt odio. Suspendisse posuere luctus aliquet. Quisque magna tellus, tempor vitae arcu sed, volutpat scelerisque lacus. Aliquam varius pulvinar dapibus. Ut a tincidunt sem. Aenean sollicitudin fringilla erat ut imperdiet. Phasellus fermentum, enim vitae laoreet elementum, eros nisl hendrerit lorem.
+    description: dfsdf
   - name: "Core Java Apps"
     git_url: "/core_java"
     description:
