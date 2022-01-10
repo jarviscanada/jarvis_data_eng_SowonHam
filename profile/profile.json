@@ -1,113 +1,81 @@
 {
   "education": [
     {
-      "awards_achievements": [
-        "Scholarship",
-        "Dean's List (2015, 2016): Ut enim ad minim veniam",
-        "GPA: 3.8/4.0"
-      ],
+      "awards_achievements": null,
       "degree": "Honours Bachelor of Science, with Distinction",
       "department": "Statistics and Mathematics",
       "duration": "2017-2021",
       "school_name": "University of Toronto - St. George Campus"
-    },
-    {
-      "awards_achievements": null,
-      "degree": "Master of Engineering",
-      "department": "Electrical and Computer Engineering",
-      "duration": "2016-2018",
-      "school_name": "XYZ university"
     }
   ],
   "github_repo_root_url": "https://github.com/jarviscanada/jarvis_data_eng_demo",
   "highlighted_projects": [
     {
-      "description": "Suspendisse a tincidunt odio. Suspendisse posuere luctus aliquet. Quisque magna tellus, tempor vitae arcu sed, volutpat scelerisque lacus. Aliquam varius pulvinar dapibus. Ut a tincidunt sem. Aenean sollicitudin fringilla erat ut imperdiet. Phasellus fermentum, enim vitae laoreet elementum, eros nisl hendrerit lorem.",
-      "git_url": "https://github.com/jarviscanada/jarvis_profile_builder",
-      "name": "Web app for resturant"
+      "description": "\n - Implemented a complex and lengthy set of instruction for the computer to perform using Windows API as a base to diminish labour. \n - Researched and incorporated image and pixel searching tools to precisely determine which stage of instructions the computer is performing to reduce automation time by 30%.\n - Constructed separate executable for different stages of the automation to cut down the testing time and cost by a significant amount.",
+      "name": "Computer Automation"
     },
     {
-      "description": "Suspendisse a tincidunt odio. Suspendisse posuere luctus aliquet. Quisque magna tellus, tempor vitae arcu sed, volutpat scelerisque lacus. Aliquam varius pulvinar dapibus. Ut a tincidunt sem. Aenean sollicitudin fringilla erat ut imperdiet. Phasellus fermentum, enim vitae laoreet elementum, eros nisl hendrerit lorem.",
+      "description": "This project based on the computer automation that I performed on the above project.\n - Designed and performed a replicated exponential factorial experiment to abolish the ambiguity and precisely determine the efficiency of two contrasting scripts.\n - Enhanced the computer automation efficiency by 10% through utilizing the statistical conclusions written from the experiment.",
       "git_url": null,
-      "name": "Machine Learning"
+      "name": "Data Analysis on Computer Automation"
+    },
+    {
+      "description": "\n - Implemented a fully-connected neural network (multi-layer perceptron) with 10-dimensional hidden layer with a trigonometric non-linearity.\n - Performed gradient-descent using automatic differentiation to estimate parameters given the batch-size, model variance and learning rate.\n - Adjusted and improved the neural network to learn both the mean and variance of the Gaussian model.",
+      "git_url": null,
+      "name": "Non-linear Regression Model with a Neural Network"
     }
   ],
   "jarvis_projects": [
     {
-      "description": "dfsdf",
+      "description": [
+        "Provided the Jarvis Linux Cluster Administration (LCA) team with a Minimum Viable Product (MVP) for recording the hardware specifications and resource usage for nodes.\"",
+        "Developed bash scripts for automatically collecting the hardware specifications and resource usage from nodes and record it in a RDBMS, PostgreSQL.",
+        "Used docker to create a container for PostgreSQL to create/start/stop the database.",
+        "Queried the database to perform and collect specific data for related business questions of interest.",
+        "Utilized CRONTAB to automatically data every 1 minute interval from all the servers."
+      ],
       "git_url": "/linux_sql",
       "name": "Cluster Monitor"
     },
     {
-      "description": [
-        "Twitter App: Curabitur laoreet tristique leo, eget suscipit nisi. Sed in sodales ex. Maecenas vitae tincidunt dui, et eleifend quam.",
-        "JDBC App: Curabitur laoreet tristique leo, eget suscipit nisi. Sed in sodales ex. Maecenas vitae tincidunt dui, et eleifend quam.",
-        "Grep App: Curabitur laoreet tristique leo, eget suscipit nisi. Sed in sodales ex. Maecenas vitae tincidunt dui, et eleifend quam."
-      ],
-      "git_url": "/core_java",
-      "name": "Core Java Apps"
-    },
-    {
-      "description": "",
-      "git_url": "/springboot",
-      "name": "Springboot App"
-    },
-    {
-      "description": "",
+      "description": "In Progress",
       "git_url": "/python_data_anlytics",
       "name": "Python Data Analytics"
     },
     {
-      "description": "",
+      "description": "Not Started",
       "git_url": "/hadoop",
       "name": "Hadoop"
     },
     {
-      "description": "",
+      "description": "Not Started",
       "git_url": "/spark",
       "name": "Spark"
-    },
-    {
-      "description": "",
-      "git_url": "/cloud_devops",
-      "name": "Cloud/DevOps"
     }
   ],
   "name": "Sowon Ham",
   "others": [
     {
       "bullets": [
-        "Udacity Machine Learning (2019)"
-      ],
-      "title": "Certificates"
-    },
-    {
-      "bullets": [
-        "Winner"
-      ],
-      "title": "Awards"
-    },
-    {
-      "bullets": [
-        "Basketball player",
-        "Competitive gaming",
-        "Volunteer, ABC Food bank: Ut enim ad minim veniam"
+        "Badminton Player",
+        "PC Gaming",
+        "Build automation scripts for convenience"
       ],
       "title": "Activities/Hobbies"
     }
   ],
   "professional_experience": [
     {
-      "company": "Jarvis",
-      "description": "Donec mattis sed justo et sagittis. Vestibulum lacinia nulla ipsum. Curabitur imperdiet nibh vitae leo lacinia laoreet. Nullam accumsan, lectus ut maximus ultricies, augue justo egestas mi, vel bibendum felis.",
-      "duration": "2020-present",
-      "title": "Software Developer"
+      "company": "Jarvis Consulting Group",
+      "description": "\n - Provided the Jarvis LCA team with a MVP that collects hardware specification and resource usage on nodes using Bash scripting and store the data into a RDBMS, PostgreSQL.\n - Query the database several times to answer business related questions and observe the data.\n - Collaborated with teams to solve problems that were rather not trivial.",
+      "duration": "2021.12-Present",
+      "title": "Data Analyst Consultant"
     },
     {
-      "company": "XYZ Company",
-      "description": "Donec mattis sed justo et sagittis. Vestibulum lacinia nulla ipsum. Curabitur imperdiet nibh vitae leo lacinia laoreet. Nullam accumsan, lectus ut maximus ultricies, augue justo egestas mi, vel bibendum felis.",
-      "duration": "2019",
-      "title": "Tutor"
+      "company": "St. Paschal Baylon Church",
+      "description": "\n - Enthusiastic to learn new methods to quickly incorporate it into the working environment.\n - Immensely communicated with other crew members to work efficiently and not overlap cleaning the same areas. - Flexible with abrupt changes in work schedule to accommodate and prepare for any uprising matters.",
+      "duration": "2016.05-2016.09",
+      "title": "Volunteer Work"
     }
   ],
   "skills": {

@@ -15,50 +15,54 @@ I am a recent graduate of University of Toronto - St. George Campus and I studie
 Project source code: [https://github.com/jarviscanada/jarvis_data_eng_demo](https://github.com/jarviscanada/jarvis_data_eng_demo)
 
 
-**Cluster Monitor** [[GitHub](https://github.com/jarviscanada/jarvis_data_eng_demo/tree/master/linux_sql)]: dfsdf
-
-**Core Java Apps** [[GitHub](https://github.com/jarviscanada/jarvis_data_eng_demo/tree/master/core_java)]:
+**Cluster Monitor** [[GitHub](https://github.com/jarviscanada/jarvis_data_eng_demo/tree/master/linux_sql)]:
       
-  - Twitter App: Curabitur laoreet tristique leo, eget suscipit nisi. Sed in sodales ex. Maecenas vitae tincidunt dui, et eleifend quam.
-  - JDBC App: Curabitur laoreet tristique leo, eget suscipit nisi. Sed in sodales ex. Maecenas vitae tincidunt dui, et eleifend quam.
-  - Grep App: Curabitur laoreet tristique leo, eget suscipit nisi. Sed in sodales ex. Maecenas vitae tincidunt dui, et eleifend quam.
+  - Provided the Jarvis Linux Cluster Administration (LCA) team with a Minimum Viable Product (MVP) for recording the hardware specifications and resource usage for nodes."
+  - Developed bash scripts for automatically collecting the hardware specifications and resource usage from nodes and record it in a RDBMS, PostgreSQL.
+  - Used docker to create a container for PostgreSQL to create/start/stop the database.
+  - Queried the database to perform and collect specific data for related business questions of interest.
+  - Utilized CRONTAB to automatically data every 1 minute interval from all the servers.
 
-**Springboot App** [[GitHub](https://github.com/jarviscanada/jarvis_data_eng_demo/tree/master/springboot)]: Not Started
-
-**Python Data Analytics** [[GitHub](https://github.com/jarviscanada/jarvis_data_eng_demo/tree/master/python_data_anlytics)]: Not Started
+**Python Data Analytics** [[GitHub](https://github.com/jarviscanada/jarvis_data_eng_demo/tree/master/python_data_anlytics)]: In Progress
 
 **Hadoop** [[GitHub](https://github.com/jarviscanada/jarvis_data_eng_demo/tree/master/hadoop)]: Not Started
 
 **Spark** [[GitHub](https://github.com/jarviscanada/jarvis_data_eng_demo/tree/master/spark)]: Not Started
 
-**Cloud/DevOps** [[GitHub](https://github.com/jarviscanada/jarvis_data_eng_demo/tree/master/cloud_devops)]: Not Started
-
 
 ## Highlighted Projects
-**Web app for resturant** [[GitHub](https://github.com/jarviscanada/jarvis_profile_builder)]: Suspendisse a tincidunt odio. Suspendisse posuere luctus aliquet. Quisque magna tellus, tempor vitae arcu sed, volutpat scelerisque lacus. Aliquam varius pulvinar dapibus. Ut a tincidunt sem. Aenean sollicitudin fringilla erat ut imperdiet. Phasellus fermentum, enim vitae laoreet elementum, eros nisl hendrerit lorem.
+**Computer Automation**: 
+ - Implemented a complex and lengthy set of instruction for the computer to perform using Windows API as a base to diminish labour. 
+ - Researched and incorporated image and pixel searching tools to precisely determine which stage of instructions the computer is performing to reduce automation time by 30%.
+ - Constructed separate executable for different stages of the automation to cut down the testing time and cost by a significant amount.
 
-**Machine Learning**: Suspendisse a tincidunt odio. Suspendisse posuere luctus aliquet. Quisque magna tellus, tempor vitae arcu sed, volutpat scelerisque lacus. Aliquam varius pulvinar dapibus. Ut a tincidunt sem. Aenean sollicitudin fringilla erat ut imperdiet. Phasellus fermentum, enim vitae laoreet elementum, eros nisl hendrerit lorem.
+**Data Analysis on Computer Automation**: This project based on the computer automation that I performed on the above project.
+ - Designed and performed a replicated exponential factorial experiment to abolish the ambiguity and precisely determine the efficiency of two contrasting scripts.
+ - Enhanced the computer automation efficiency by 10% through utilizing the statistical conclusions written from the experiment.
+
+**Non-linear Regression Model with a Neural Network**: 
+ - Implemented a fully-connected neural network (multi-layer perceptron) with 10-dimensional hidden layer with a trigonometric non-linearity.
+ - Performed gradient-descent using automatic differentiation to estimate parameters given the batch-size, model variance and learning rate.
+ - Adjusted and improved the neural network to learn both the mean and variance of the Gaussian model.
 
 
 ## Professional Experiences
 
-**Software Developer, Jarvis (2020-present)**: Donec mattis sed justo et sagittis. Vestibulum lacinia nulla ipsum. Curabitur imperdiet nibh vitae leo lacinia laoreet. Nullam accumsan, lectus ut maximus ultricies, augue justo egestas mi, vel bibendum felis.
+**Data Analyst Consultant, Jarvis Consulting Group (2021.12-Present)**: 
+ - Provided the Jarvis LCA team with a MVP that collects hardware specification and resource usage on nodes using Bash scripting and store the data into a RDBMS, PostgreSQL.
+ - Query the database several times to answer business related questions and observe the data.
+ - Collaborated with teams to solve problems that were rather not trivial.
 
-**Tutor, XYZ Company (2019)**: Donec mattis sed justo et sagittis. Vestibulum lacinia nulla ipsum. Curabitur imperdiet nibh vitae leo lacinia laoreet. Nullam accumsan, lectus ut maximus ultricies, augue justo egestas mi, vel bibendum felis.
+**Volunteer Work, St. Paschal Baylon Church (2016.05-2016.09)**: 
+ - Enthusiastic to learn new methods to quickly incorporate it into the working environment.
+ - Immensely communicated with other crew members to work efficiently and not overlap cleaning the same areas. - Flexible with abrupt changes in work schedule to accommodate and prepare for any uprising matters.
 
 
 ## Education
 **University of Toronto - St. George Campus (2017-2021)**, Honours Bachelor of Science, with Distinction, Statistics and Mathematics
-- Scholarship
-- Dean's List (2015, 2016): Ut enim ad minim veniam
-- GPA: 3.8/4.0
-
-**XYZ university (2016-2018)**, Master of Engineering, Electrical and Computer Engineering
 
 
 ## Miscellaneous
-- Udacity Machine Learning (2019)
-- Winner
-- Basketball player
-- Competitive gaming
-- Volunteer, ABC Food bank: Ut enim ad minim veniam
+- Badminton Player
+- PC Gaming
+- Build automation scripts for convenience
