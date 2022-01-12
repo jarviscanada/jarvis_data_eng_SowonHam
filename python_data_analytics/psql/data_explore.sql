@@ -25,23 +25,35 @@ FROM retail;
 
 -- 6. Calculate average invoice amount excluding invoices with a negative amount (e.g. canceled
 -- orders have negative amount)
--- Note: negative amount refers to negative `quantity` column
-SELECT AVG(quantity)
-FROM retail
-WHERE quantity > 0;
+-- Note: amount refers to quantity * unit_price
+-- 1. Calculate amount first
+-- 2. Filter out negative amounts
+-- 3. Take the average of the amounts
 
-SELECT invoice_no, AVG(quantity)
+CREATE VIEW amount_table AS
+SELECT invoice_no, SUM(quantity * unit_price) AS amount
 FROM retail
 GROUP BY invoice_no
-HAVING AVG(quantity) > 0;
+HAVING SUM(quantity * unit_price) > 0;
 
-CREATE VIEW sample AS
-SELECT invoice_no, COUNT(invoice_no)
-from retail
-GROUP BY invoice_no
-HAVING MIN(quantity) > 0;
-
-SELECT AVG(sample.count) FROM sample;
+SELECT AVG(amount) FROM amount_table;
 
 -- 7. Calculate total revenue (e.g. sum of unit_price * quantity)
+CREATE VIEW total_rev_table AS
+SELECT invoice_no, SUM(quantity * unit_price) AS amount
+FROM retail
+GROUP BY invoice_no;
+
+SELECT SUM(amount) FROM total_rev_table;
+
 -- 8. Calculate total revenue by YYYYMM
+CREATE VIEW total_rev_table2 AS
+SELECT EXTRACT(YEAR FROM invoice_date) AS year,
+       EXTRACT(MONTH FROM invoice_date) AS month,
+       SUM(quantity * unit_price) AS sum
+FROM retail
+GROUP BY year, month
+ORDER BY year, month;
+
+SELECT ((year * 1000) + month) AS yyyymm, sum
+FROM total_rev_table2;
