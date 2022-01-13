@@ -57,7 +57,8 @@ Project source code: [https://github.com/jarviscanada/jarvis_data_eng_demo](http
 
 **Volunteer Work, St. Paschal Baylon Church (2016.05-2016.09)**: 
  - Enthusiastic to learn new methods to quickly incorporate it into the working environment.
- - Immensely communicated with other crew members to work efficiently and not overlap cleaning the same areas. - Flexible with abrupt changes in work schedule to accommodate and prepare for any uprising matters.
+ - Immensely communicated with other crew members to work efficiently and not overlap cleaning the same areas.
+ - Flexible with abrupt changes in work schedule to accommodate and prepare for any uprising matters.
 
 
 ## Education
