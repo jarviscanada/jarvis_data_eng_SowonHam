@@ -34,7 +34,7 @@ of all implementations or any updates regarding the project will be done through
 - Create a link that points to your Jupyter notebook (use the relative path `./retail_data_analytics_wrangling.ipynb`)
 - Discuss how would you use the data to help LGS to increase their revenue (e.g. design a new marketing strategy with data you provided)
 
-The data analytics and wrangling can be found in the Jupyter Notebook [here.](/retail_data_analytics_wrangling.ipynb)
+The data analytics and wrangling can be found in the Jupyter Notebook [here.](./retail_data_analytics_wrangling.ipynb)
 
 
 
