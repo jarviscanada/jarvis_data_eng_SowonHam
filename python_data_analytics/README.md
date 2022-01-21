@@ -28,9 +28,22 @@ of all implementations or any updates regarding the project will be done through
 - Describe the architecture of this project, including the LGS web app.
 - Draw an architecture Diagram (please do not copy-paste any diagram from the project board)
 
+
+
 ## Data Analytics and Wrangling
 - Create a link that points to your Jupyter notebook (use the relative path `./retail_data_analytics_wrangling.ipynb`)
 - Discuss how would you use the data to help LGS to increase their revenue (e.g. design a new marketing strategy with data you provided)
 
+The data analytics and wrangling can be found in the Jupyter Notebook [here.](/retail_data_analytics_wrangling.ipynb)
+
+
+
 # Improvements
-- List three improvements that you want to do if you got more time
+- Build statistical models for the LGS marketing team to provide them with the approach
+they need to take to improve their revenue. 
+- Perform data analysis based on the statistical models and prove through mathematics
+that the data analysis is correct and it does not break any model assumptions.
+- Establish the data the LGS team should collect for future revenue increase through
+methods of design and analysis on experiments.
+- Forecasting on the revenue for future years with more recent data would be beneficial
+for the LGS team.
