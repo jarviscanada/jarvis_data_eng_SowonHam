@@ -21,39 +21,25 @@ Project source code: [https://github.com/jarviscanada/jarvis_data_eng_demo](http
 
 
 ## Highlighted Projects
-**Computer Automation**: 
- - Implemented a complex and lengthy set of instruction for the computer to perform using Windows API as a base to diminish labour. 
- - Researched and incorporated image and pixel searching tools to precisely determine which stage of instructions the computer is performing to reduce automation time by 30%.
- - Constructed separate executable for different stages of the automation to cut down the testing time and cost by a significant amount.
+**Computer Automation**: This project presents automating a complex and lengthy set of instructions on Windows OS using AutoIt to diminish labor on the repetitive task that I desired to perform. Furthermore, the project utilized external image and pixel searching libraries as a cue to perform different tasks depending on the image or pixel. The automation consisted of performing keyboard and cursor control actions based on the Windows API which was very time-sensitive due to the nature of the platform.
 
-**Data Analysis on Computer Automation**: This project based on the computer automation that I performed on the above project.
- - Designed and performed a replicated exponential factorial experiment to abolish the ambiguity and precisely determine the efficiency of two contrasting scripts.
- - Enhanced the computer automation efficiency by 10% through utilizing the statistical conclusions written from the experiment.
+**Data Analysis on Computer Automation**: Designed and performed a replicated exponential factorial experiment on the computer automation project above to abolish the ambiguity and precisely determine the efficiency of two contrasting scripts. Precisely, the automation appeared to be faster and more efficient with different delays between each keyboard or mouse action. Additionally, the script seemed more accurate when using image searching versus pixel searching on a specific area and vice versa. Overall, deployed a report based on the experiment conducted and made statistical conclusions on which of the two methods should be used.
 
-**Non-linear Regression Model with a Neural Network**: 
- - Implemented a fully-connected neural network (multi-layer perceptron) with 10-dimensional hidden layer with a trigonometric non-linearity.
- - Performed gradient-descent using automatic differentiation to estimate parameters given the batch-size, model variance and learning rate.
- - Adjusted and improved the neural network to learn both the mean and variance of the Gaussian model.
+**Non-linear Regression Model with a Neural Network**: Implemented a fully-connected neural network (multi-layer perceptron) with a 10-dimensional hidden layer with a trigonometric non-linearity. Utilizing Julia and certain packages such as Zygote I performed gradient-descent using automatic differentiation to estimate sample parameters given the batch size, model variance, and learning rate. After implementing the basic neural network for the non-linear regression model I adjusted the neural network to learn both the mean and variance of the Gaussian model. The project was deployed in a report form using Julia Markdown format.
 
 
 ## Professional Experiences
 
-**Data Analyst Consultant, Jarvis Consulting Group (2021.12-Present)**: 
- - Provided the Jarvis LCA team with a MVP that collects hardware specification and resource usage on nodes using Bash scripting and store the data into a RDBMS, PostgreSQL.
- - Query the database several times to answer business related questions and observe the data.
- - Collaborated with teams to solve problems that were rather not trivial.
+**Data Analyst Consultant, Jarvis Consulting Group (2021 - Present)**: Designed and implemented software projects and data analytical reports using a diverse set of tools such as SQL, Pandas, Git, Docker, GCP, and Jupyter Notebook while collaborating with scrum team members in an Agile environment. Developed technical project management skills such as following the SDLC life cycle to maintain software and data projects more consistently and successfully using the GitFlow methodology on our remote repository.
 
-**Volunteer Work, St. Paschal Baylon Church (2016.05-2016.09)**: 
- - Enthusiastic to learn new methods to quickly incorporate it into the working environment.
- - Immensely communicated with other crew members to work efficiently and not overlap cleaning the same areas.
- - Flexible with abrupt changes in work schedule to accommodate and prepare for any uprising matters.
+**English-to-Korean & Korean-to-English Translator, KCC Chemical (2015 - 2018)**: Translated and interpreted various forms of documents such as e-mails, letters, phone calls, etc., and in-person business queries to assist the company owner in communicating with foreign clients. Brainstormed and discussed with the owner to confirm the translation or interpretation of the queries to keep a precise nuance in the translations. Developed an immense amount of communication and soft skills during this position due to the nature of the work and provided sensitive and important information discretely to the owner for security purposes.
 
 
 ## Education
-**University of Toronto - St. George Campus (2017-2021)**, Honours Bachelor of Science, with Distinction, Statistics and Mathematics
+**University of Toronto - St. George Campus (2017-2021)**, Honours Bachelor of Science, Statistics and Mathematics
 
 
 ## Miscellaneous
-- Badminton Player
-- PC Gaming
-- Build automation scripts for convenience
+- Volunteer Work @St. Paschal Baylon Church: Performed and organized crew members to designate which areas are needed to be cleaned.
+- Badminton Player: Organized a group of friends to play badminton together frequently and booked a court on available timeslots.
+- Automation Scripts: Built automation scripts for Windows OS for daily purposes to launch particular programs on start and other tasks on AutoIt.
