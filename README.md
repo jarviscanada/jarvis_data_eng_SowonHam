@@ -37,6 +37,7 @@ Project source code: [https://github.com/jarviscanada/jarvis_data_eng_demo](http
 
 ## Education
 **University of Toronto - St. George Campus (2017-2021)**, Honours Bachelor of Science, Statistics and Mathematics
+- GPA: 3.4/4.0
 
 
 ## Miscellaneous

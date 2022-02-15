@@ -1,7 +1,9 @@
 {
   "education": [
     {
-      "awards_achievements": null,
+      "awards_achievements": [
+        "GPA: 3.4/4.0"
+      ],
       "degree": "Honours Bachelor of Science",
       "department": "Statistics and Mathematics",
       "duration": "2017-2021",
